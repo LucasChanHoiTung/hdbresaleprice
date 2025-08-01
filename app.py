@@ -11,7 +11,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://image.shutterstock.com/image-photo/hdb-estate-bendemeer-singapore-canal-250nw-2467679863.jpg");
+        background-image: url("https://media.istockphoto.com/id/898872930/photo/aerial-view-of-housing-buildings.jpg?s=612x612&w=0&k=20&c=X-evveEjVrxhSTDlWx5l06CiALr1tRIgf3sjnWC8Yl0=");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
